@@ -47,3 +47,6 @@
 2. Commit your change with an appropriate message. Why not?
 
 3. Push your change to GitHub. By refreshing your browser, confirm that the new line has been added to the rendered README. Click on the “official Git documentation” link to verify that it works.
+
+# END of README
+[official Git documentation](https://git-scm.com/)
