@@ -128,13 +128,13 @@ git push origin master
 [official Git documentation](https://git-scm.com/).
 ```
 
-#Hello, world 
-My name is Uduakabasi 
-
 2. Commit your change with an appropriate message. Why not?
 
 git commit -m "Wah gwan"
 
 3. Push your change to GitHub. By refreshing your browser, confirm that the new line has been added to the rendered README. Click on the “official Git documentation” link to verify that it works.
 
-
+'''markdown 
+~/repos/website/README.md
+For more information on Git, see the 
+[official Git documentation](https://github.com/darsuabasi/git-lab.git)
