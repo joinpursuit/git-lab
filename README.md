@@ -2,6 +2,7 @@
 
 ## First Set
 1. Create a new directory on your Desktop called git_exercises and cd into that directory.
+mkdir git_exercises
 2. Using `git init`, create a new repository.
 3. Using the `touch` command, create empty files called foo and bar in your repository directory.
 4. Enter `ls` to make sure they were added.
@@ -45,3 +46,9 @@
 2. Commit your change with an appropriate message. Why not?
 
 3. Push your change to GitHub. By refreshing your browser, confirm that the new line has been added to the rendered README. Click on the “official Git documentation” link to verify that it works.
+
+```markdown
+~/repos/website/README.md
+ For more information on Git, see the
+[official Git documentation](https://git-scm.com/).
+```
