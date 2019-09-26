@@ -37,8 +37,18 @@ git commit -m "add foo"
 git status
 ```
 9. Using `git add bar`, add bar to staging area. Confirm with git status that it worked.
-10. Now run `git commit -m` option, and add the message `“Add bar”`.
+```
+git add bar
+git status
+```
+10. Now run `git commit -m` option, and add the message `“Add bar”`
+```
+git commit -m "add bar"
+```
 11. Using `git log`, confirm that the commits made in the previous exercises worked correctly.
+```
+git log
+```
 
   
 
