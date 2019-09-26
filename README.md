@@ -122,5 +122,11 @@ git status
 ```
 
 2. Commit your change with an appropriate message. Why not?
+```git add .
+git commit -m "add git documentation"
+```
 
 3. Push your change to GitHub. By refreshing your browser, confirm that the new line has been added to the rendered README. Click on the “official Git documentation” link to verify that it works.
+
+``` git push
+```
