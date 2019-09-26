@@ -1,5 +1,7 @@
 # Git Exercises
 
+# hello there
+
 ## First Set
 1. Create a new directory on your Desktop called git_exercises and cd into that directory.
 2. Using `git init`, create a new repository.
@@ -45,3 +47,6 @@
 2. Commit your change with an appropriate message. Why not?
 
 3. Push your change to GitHub. By refreshing your browser, confirm that the new line has been added to the rendered README. Click on the “official Git documentation” link to verify that it works.
+
+# END of README
+[official Git documentation](https://git-scm.com/)
