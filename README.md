@@ -1,7 +1,7 @@
 # Git Exercises
 
 ## First Set
-1. Create a new directory on your Desktop called git_exercises and cd into that directory.
+1. Create a  new directory on your Desktop called git_exercises and cd into that directory.
 2. Using `git init`, create a new repository.
 3. Using the `touch` command, create empty files called foo and bar in your repository directory.
 4. Enter `ls` to make sure they were added.
