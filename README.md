@@ -83,7 +83,16 @@ git show 27540765abd2b2d2664367c003cfa1678dcc697b
 ### Third Set
 
 1. The `git log` command shows only the commit messages, which makes for a compact display but isn’t particularly detailed. Verify by running `git log -p` that the `-p` option shows the full diffs represented by each commit. Press `q` to escape.
+``` 
+git log -p
+q
+```
 2. Create a file `README.md`, add and commit it.
+```
+touch README.md
+git add README.md
+git commit -m "create README"
+```
 3. Got to github and create a new repository. Connect your local repo to the remote one.
 4. Open your README.md and and add the line `# hello there` at the top of `README.md` and save.
 5. Check the status, then add, check the status, and then commit the new line with a commit message of your choice. Verify using `git status` that the change was committed as expected.
