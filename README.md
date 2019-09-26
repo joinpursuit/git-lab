@@ -7,15 +7,39 @@ mkdir git_exercises
 cd git_exercises
 ```
 2. Using `git init`, create a new repository.
+```
+git init
+```
 3. Using the `touch` command, create empty files called foo and bar in your repository directory.
+```
+touch foo
+touch bar
+```
 4. Enter `ls` to make sure they were added.
+```
+ls
+```
 5. Check your `git status`.
+```
+git status
+```
 6. Using `git add foo`, add `foo` to the staging area. Confirm with `git status` that it worked.
+``` 
+git add foo
+git status
+```
 7. Using `git commit -m` add an appropriate message, add foo to the repository.
+```
+git commit -m "add foo"
+```
 8. Check your `git status`.
+```
+git status
+```
 9. Using `git add bar`, add bar to staging area. Confirm with git status that it worked.
 10. Now run `git commit -m` option, and add the message `“Add bar”`.
 11. Using `git log`, confirm that the commits made in the previous exercises worked correctly.
+
   
 
 ## Second Set
