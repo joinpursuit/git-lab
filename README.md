@@ -63,9 +63,22 @@ touch baz
 ls
 ```
 3. Check the status of your git. 
+```
+git status
+```
 4. Add baz to the staging area using `git add .`, then commit with the message `"Add bazz"`.
+```
+git add .
+git commit -m "Add bazz"
+```
 5. Realizing there’s a typo in your commit message, change bazz to baz using `git commit --amend -m Add baz`.
+```
+git commit --amend -m add baz
+```
 6. Run git log to get the id of the last commit, then view the diff using `git show <id>` to verify that the message was amended properly.
+```
+git show 27540765abd2b2d2664367c003cfa1678dcc697b
+```
 
 ### Third Set
 
