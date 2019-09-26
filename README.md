@@ -55,7 +55,13 @@ git log
 ## Second Set
 
 1. Use touch to create an empty file called baz.
+```
+touch baz
+```
 2. Check that it's there by entering `ls`.
+```
+ls
+```
 3. Check the status of your git. 
 4. Add baz to the staging area using `git add .`, then commit with the message `"Add bazz"`.
 5. Realizing there’s a typo in your commit message, change bazz to baz using `git commit --amend -m Add baz`.
