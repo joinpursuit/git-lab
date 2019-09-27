@@ -45,3 +45,6 @@
 2. Commit your change with an appropriate message. Why not?
 
 3. Push your change to GitHub. By refreshing your browser, confirm that the new line has been added to the rendered README. Click on the “official Git documentation” link to verify that it works.
+
+For my completed assignment repo, click the link
+[Jay Fowler and Danny Laurent](https://github.com/jcafowler/git_exercises)
