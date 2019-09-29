@@ -1,3 +1,4 @@
+hello there
 # Git Exercises
 
 ## First Set
@@ -37,7 +38,7 @@
 1. Using the markdown below, add a line at the end of the README with a link to the official Git documentation:
 
 ```markdown
-~/repos/website/README.md
+~//reposwebsite/README.md
  For more information on Git, see the
 [official Git documentation](https://git-scm.com/).
 ```
@@ -45,3 +46,8 @@
 2. Commit your change with an appropriate message. Why not?
 
 3. Push your change to GitHub. By refreshing your browser, confirm that the new line has been added to the rendered README. Click on the “official Git documentation” link to verify that it works.
+```markdown
+~//reposwebsite/README.md
+ For more information on Git, see the
+[official Git documentation](https://git-scm.com/).
+```
