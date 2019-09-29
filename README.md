@@ -97,12 +97,27 @@ git commit -m "Add README"
 ```
 3. Got to github and create a new repository. Connect your local repo to the remote one.
 ```
-
+git remote add origin https://github.com/KevinBrutus530/gitlabHW.git
+```
 4. Open your README.md and and add the line `# hello there` at the top of `README.md` and save.
+```
+code .
+'# hello there'
+command + s
 ```
 
 5. Check the status, then add, check the status, and then commit the new line with a commit message of your choice. Verify using `git status` that the change was committed as expected.
+```
+git status
+git add .
+git status
+git commit -m "add text to readme"
+git status
+```
 6. Push your changes: `git push origin master`. Refresh your github and click on the commit to verify the changes.
+```
+git push origin master
+```
 
 ### Fourth Set
 
