@@ -1,3 +1,4 @@
+hello there
 # Git Exercises
 
 ## First Set
